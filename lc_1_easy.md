@@ -32,7 +32,6 @@ func twoSum(nums []int, target int) []int {
 | Runtime | Memory |
 | ------ | ------ |
 | 36ms | 2.9MB |
-| ------ | ------ |
 | 40.67% | 86.76% |
 
 My Second Anwser:
@@ -57,5 +56,4 @@ func twoSum(nums []int, target int) []int {
 | Runtime | Memory |
 | ------ | ------ |
 | 4ms | 3.8MB |
-| ------ | ------ |
 | 100% | 15.95% |
